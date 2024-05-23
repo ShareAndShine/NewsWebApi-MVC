@@ -12,7 +12,7 @@ export async function fetchNews(apiUrl) {
   const apikey = '2d036a5806d54c36b1f2d50e2002ec19';
   export async function fetchNews(countryCode) {
     const newsapiurl = `https://newsapi.org/v2/top-headlines?country=${countryCode}&apiKey=${apikey}`;
-    const res = await fetch(newsapiurl);
+    const res = await fetch(newsapiurl).catch(error =>  console.log('Error in news fetch:: ' + error));
     if (!res.ok) {
       throw new Error('Failed to fetch news');
     }
