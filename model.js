@@ -39,6 +39,26 @@ export async function fetchNews(apiUrl) {
       });
   }
 
+
+  export function fetchNewsFromFile() {
+    const jsonFilePath = './news.json'; // Path to your local JSON file
+  
+    return fetch(jsonFilePath)
+      .then(res => {
+        if (!res.ok) {
+          throw new Error('Failed to fetch news');
+        }
+        return res.json();
+      })
+      .then(json => {
+        return json.articles;
+      })
+      .catch(error => {
+        console.log('Error in news fetch:: ' + error);
+        throw error;
+      });
+  }
+  
   export function saveSelectedCountry(countryCode) {
     localStorage.setItem('selectedCountry', countryCode);
   }

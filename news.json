@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Lifestyle Desk",
+            "title": "Weak muscles and more: 5 drawbacks of vitamin B12 deficiency - The Times of India",
+            "description": "Overall, awareness and appropriate management of Vitamin B12 deficiency are essential in preventing long-term neurological complications and ensuring",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/weak-muscles-and-more-5-drawbacks-of-vitamin-b12-deficiency/articleshow/110333615.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-110333692,width-1070,height-580,imgsize-801754,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-05-22T12:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "News18",
+            "title": "Singapore Airlines Flight Turbulence: Passengers Aboard Describe Terror At 37,000 Feet As Scary Visuals Eme - News18",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm5ld3MxOC5jb20vd29ybGQvc2luZ2Fwb3JlLWFpcmxpbmVzLWZsaWdodC10dXJidWxlbmNlLXBhc3Nlbmdlci1zaGFyZS1kZXRhaWxzLTg4OTk5NzMuaHRtbNIBamh0dHBzOi8vd3d3Lm5ld3MxOC5jb20vYW1wL3dvcmxkL3NpbmdhcG9yZS1haXJsaW5lcy1mbGlnaHQtdHVyYnVsZW5jZS1wYXNzZW5nZXItc2hhcmUtZGV0YWlscy04ODk5OTczLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-22T12:12:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Moneycontrol News",
+            "title": "Nykaa Q4 results: Net profit jumps to Rs 9 crore, revenue up 28% - Moneycontrol",
+            "description": "The company, in an update to the stock exchanges released in April, had said its beauty and personal care division is growing well ahead of the industry. That is despite competition from Reliance's Tira and Walmart's Myntra.",
+            "url": "https://www.moneycontrol.com/technology/nykaa-q4-results-net-profit-jumps-to-rs-9-crore-revenue-up-28-article-12729402.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/04/Collage-Maker-14-Apr-2023-12-26-PM-3953.jpg",
+            "publishedAt": "2024-05-22T12:12:00Z",
+            "content": "FSN E-Commerce Ventures, which operates beauty and personal care (BPC) company Nykaa, reported a net profit of Rs 9 crore in the quarter ended 31 March, 2024, up more than 4X from Rs 2 crore in the y… [+1740 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Indian-Origin US Scientist Shrinivas R Kulkarni Wins Prestigious Shaw Prize In Astronomy - NDTV",
+            "description": "Shrinivas R Kulkarni, an Indian-origin professor of astronomy from the US will be bestowed the prestigious Shaw Prize in Astronomy for his ground-breaking discoveries.",
+            "url": "https://www.ndtv.com/indians-abroad/indian-origin-us-scientist-shrinivas-r-kulkarni-wins-prestigious-shaw-prize-in-astronomy-5721156",
+            "urlToImage": "https://c.ndtvimg.com/2024-05/bs0md08o_shrinivas-r-kulkarni-_625x300_22_May_24.jpg",
+            "publishedAt": "2024-05-22T12:05:20Z",
+            "content": "Mr Kulkarni did MS from the Indian Institute of Technology in 1978.\r\nHong Kong: Shrinivas R Kulkarni, an Indian-origin professor of astronomy from the US will be bestowed the prestigious Shaw Prize i… [+2348 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT News Desk",
+            "title": "Home ministry office in North Block gets bomb threat email, bomb disposal squad rushed - Hindustan Times",
+            "description": "Searches are on and, as of now, nothing suspicious has been found, a police officer said. | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/home-ministry-office-in-north-block-gets-bomb-threat-call-101716377413016.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/05/22/1600x900/delhi_bomb_threat_1716378190339_1716378190557.png",
+            "publishedAt": "2024-05-22T11:33:49Z",
+            "content": "The Delhi Police on Wednesday said that an email threat about a bomb was received by the Ministry of Home Affairs office in Delhi's North Block.\r\nVehicles of the Delhi Police at the the North Block, … [+2232 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Times of India",
+            "title": "RCB cancelled practice session due to heatwave: GCA - The Times of India",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9zcG9ydHMvY3JpY2tldC9pcGwvdG9wLXN0b3JpZXMvcmNiLWNhbmNlbGxlZC1wcmFjdGljZS1zZXNzaW9uLWR1ZS10by1oZWF0d2F2ZS1nY2EvYXJ0aWNsZXNob3cvMTEwMzM1MjQ4LmNtc9IBkwFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9zcG9ydHMvY3JpY2tldC9pcGwvdG9wLXN0b3JpZXMvcmNiLWNhbmNlbGxlZC1wcmFjdGljZS1zZXNzaW9uLWR1ZS10by1oZWF0d2F2ZS1nY2EvYW1wX2FydGljbGVzaG93LzExMDMzNTI0OC5jbXM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-22T11:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "NDTV Sports Desk",
+            "title": "RCB vs RR: Who Goes Through If IPL 2024 Eliminator Gets Washed Out Due To Rain? - NDTV Sports",
+            "description": "There's a Reserve Day in place for RCB vs RR Eliminator in IPL 2024. But, what happens if the play is not possible at all?",
+            "url": "https://sports.ndtv.com/cricket/rcb-vs-rr-who-goes-through-if-ipl-2024-eliminator-gets-washed-out-due-to-rain-5719245",
+            "urlToImage": "https://c.ndtvimg.com/2024-05/i61qg9ag_kohli-and-samson-bcci_625x300_22_May_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+            "publishedAt": "2024-05-22T11:18:00Z",
+            "content": "Sanju Samson's Rajasthan Royals will face a big test of character as they look to arrest their slide in a do-or-die Indian Premier League (IPL) Eliminator against an in-form Royal Challengers Bengalu… [+2048 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": "India Today News Desk",
+            "title": "Calcutta High Court scraps all OBC certificates issued in Bengal since 2010 - India Today",
+            "description": "The high court struck down the West Bengal Backward Classes Other than Scheduled Castes and Scheduled Tribes Reservation of Vacancies in Services and Posts Act 2012 section 2H 5 6 and Section 16 and Schedule I and III as 039unconstitutional039",
+            "url": "https://www.indiatoday.in/india/story/west-bengal-obc-certificates-cancelled-since-2010-calcutta-high-court-2542489-2024-05-22",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/calcutta-hc-has-today-dismissed-all-obc-certificates-221937112-16x9.jpg?VersionId=H7kHtPylkH_27Xfml0uXMAs7sDLWfhmK",
+            "publishedAt": "2024-05-22T11:00:54Z",
+            "content": "In a major verdict, the Calcutta High Court on Wednesday dismissed all Other Backward Classes (OBC) certificates issued in West Bengal since 2010.\r\nA division bench of Justice Tapabrata Chakrabirty a… [+2672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "Team BL",
+            "title": "Share Market Highlights May 22, 2024: Sensex gains 267 pts; Nifty ends near 22600; FMCG, realty stocks shine - BusinessLine",
+            "description": "Sensex, Nifty updates on May 22, 2024: Equity benchmark indices ended with gains on Wednesday amid buying in blue-chips Reliance Industries and Infosys amid mixed cues from global markets. The 30-share BSE Sensex climbed 267.75 points or 0.36 per cent to sett…",
+            "url": "https://www.thehindubusinessline.com/markets/stock-market-highlights-may-22-2024/article68200247.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/g18u29/article68200241.ece/alternates/LANDSCAPE_1200/Stock%20Market%20Live%20Updates.jpg",
+            "publishedAt": "2024-05-22T10:41:15Z",
+            "content": "<li></li>\r\nMay 22, 2024 16:17Stock Market Today: Sensex, Nifty climb on buying in Reliance, Infosys\r\nEquity benchmark indices ended with gains on Wednesday amid buying in blue-chips Reliance Industri… [+57514 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Quint"
+            },
+            "author": "Quint Entertainment",
+            "title": "'Her Role Had a Lot of Scope': Jason Shah On Sharmin's Heeramandi Performance - The Quint",
+            "description": "Sharmin Segal's powerful Heeramandi performance has left the world thinking she cannot express herself fully.",
+            "url": "https://www.thequint.com/entertainment/celebrities/sharmin-segals-heeramandi-performance-was-one-tone-jason-shah",
+            "urlToImage": "https://images.thequint.com/thequint%2F2024-05%2F937cac9c-6290-44cd-83fa-202f66716c73%2FUntitled_design___2024_05_22T164129_688.jpg",
+            "publishedAt": "2024-05-22T10:37:08Z",
+            "content": "He said, I thought, personally, there should have been a higher escalation of emotion in different places.\r\nHe continued, I remember Sanjay also saying, Stop acting from your head, act from your hear… [+661 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "RBI announces record dividend of ₹2.11 lakh crore to Government for FY24 | Mint - Mint",
+            "description": "The Reserve Bank of India has announced a record dividend of  ₹2.11 lakh crore to the Government of India for the financial year 2023-24.",
+            "url": "https://www.livemint.com/market/stock-market-news/rbi-announces-record-dividend-of-rs-2-11-lakh-crore-to-government-for-fy24-11716372717212.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/22/1600x900/Meanwhile--the-rupee-ended-almost-flat--declining-_1686245413720_1716372825160.jpg",
+            "publishedAt": "2024-05-22T10:15:36Z",
+            "content": "The Reserve Bank of India has announced a record dividend of 2.11 lakh crore to the Government of India for the financial year 2023-24.  It was announced in the 608th meeting of the Central Board of … [+1435 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Oyo, once valued at $10 billion, shelves IPO plans for second time - TechCrunch",
+            "description": "India's Oyo, once valued at $10 billion, has withdrawn its IPO application from the market regulator for the second time.",
+            "url": "https://techcrunch.com/2024/05/22/oyo-once-valued-at-10-billion-shelves-ipo-plans-for-second-time/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-978464044.jpg?resize=1200,800",
+            "publishedAt": "2024-05-22T09:15:28Z",
+            "content": "Oyo, the once high-flying Indian budget hotel chain, has withdrawn its IPO application from the Securities and Exchange Board of India (SEBI) for the second time in a fresh blow to its already dimini… [+1142 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT News Desk",
+            "title": "'Got a call from…': Swati Maliwal makes fresh allegation against AAP - Hindustan Times",
+            "description": "Swati Maliwal alleged that she was ‘assaulted’ at Delhi chief minister Arvind Kejriwal's residence by his aide Bibhav Kumar on May 13. | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/got-a-call-from-swati-maliwal-makes-fresh-allegation-against-aap-101716357048474.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/05/22/1600x900/Swati_Maliwal_1715964869933_1716360257781.jpg",
+            "publishedAt": "2024-05-22T08:43:11Z",
+            "content": "Rajya Sabha and Aam Aadmi Party (AAP) MP Swati Maliwal tweeted on Wednesday, saying that she received a call from a senior leader from the party. She alleged that everyone is under pressure to speak … [+3554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Explained: Hemant Soren's 2 Bail Pleas And A Rap By Supreme Court - NDTV",
+            "description": "Ex-Jharkhand Chief Minister Hemant Soren - arrested in January in a money laundering case - has withdrawn an interim bail plea filed before the Supreme Court after questions over non-disclosure of facts related to a Ranchi special court order.",
+            "url": "https://www.ndtv.com/india-news/hemant-soren-withdraws-bail-petition-after-supreme-court-rap-5718838",
+            "urlToImage": "https://c.ndtvimg.com/2024-05/pmlovqcg_hemant-soren_625x300_10_May_24.jpeg",
+            "publishedAt": "2024-05-22T08:38:00Z",
+            "content": "Former Jharkhand Chief Minister Hemant Soren (File).\r\nNew Delhi: Ex-Jharkhand Chief Minister Hemant Soren - arrested in January in a money laundering case - has withdrawn an interim bail plea filed b… [+5109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": "Ankita Garg",
+            "title": "iPhone 16 Pro and Pro Max tipped to get big camera upgrades - India Today",
+            "description": "The iPhone 16 Pro and Pro Max models are said to come with big camera upgrades For the first time Apple is tipped to offer a 48-megapixel ultrawide camera with this year039s Pro models Here is everything you need to know",
+            "url": "https://www.indiatoday.in/technology/news/story/iphone-16-pro-and-pro-max-tipped-to-get-big-camera-upgrades-2542396-2024-05-22",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/apple-iphone-15-series-is-now-available-at-discounts-on-flipkart-16542193-16x9.jpg?VersionId=XeeNfmaX_kkO.tlfiWE.VqKDKMKaywAM",
+            "publishedAt": "2024-05-22T08:27:54Z",
+            "content": "We have been seeing new iPhone 16 series leaks every week or so, but some of them are also a repeat of the old rumours. This is specifically true in terms of camera specs. The iPhone 16 Pro and Pro M… [+2163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "Hidden dangers of excessive sugar intake - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/web-stories/food/hidden-dangers-of-excessive-sugar-intake/9342932/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-22T08:15:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Khushi Pal",
+            "title": "10 enchanting images of galaxies captured by NASA telescopes - Hindustan Times",
+            "description": "The universe is home to innumerable galaxies. Here are ten enchanting images of galaxies captured by NASA telescopes.",
+            "url": "https://www.hindustantimes.com/web-stories/in-focus/10-enchanting-images-of-galaxies-captured-by-nasa-telescopes-101716359736104.html",
+            "urlToImage": null,
+            "publishedAt": "2024-05-22T08:15:05Z",
+            "content": "By Khushi PalPublished May 22, 2024\r\nHindustan TimesIn FocusPhoto Credits: Instagram/nasa"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Soumi Pyne",
+            "title": "Tarot Card Readings: Tarot daily prediction for May 22, 2024 - Hindustan Times",
+            "description": "Let us delve into your daily tarot predictions for May 22, 2024. | Horoscope",
+            "url": "https://www.hindustantimes.com/astrology/horoscope/tarot-card-readings-tarot-daily-prediction-for-may-22-2024-101716364052871.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/05/22/1600x900/tarot_1693036250665_1716364081308.jpg",
+            "publishedAt": "2024-05-22T07:58:05Z",
+            "content": "Aries (March 21 - April 19)\r\nToday is perfect for being creative. Doodle when you get bored and imagine your ideal life. Focus on the future and aim for a life full of joyful surprises and colourful … [+2121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "India's Astrosat Makes Unusual Discovery Around Black Hole In Deep Space - India Today",
+            "description": "AstroSat is India’s first dedicated multi-wavelength space observatory which has made a significant discovery regarding the black hole binary source Swift J1...",
+            "url": "https://www.youtube.com/watch?v=vjDQjYk6mZE",
+            "urlToImage": "https://i.ytimg.com/vi/vjDQjYk6mZE/maxresdefault.jpg",
+            "publishedAt": "2024-05-22T07:55:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "Microsoft Build 2024 highlights: New AI features on Windows, Snapdragon Dev Kit, and more - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/microsoft-build-2024-highlights-ai-dev-kit-github-9344449/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-22T07:40:23Z",
+            "content": null
+        }
+    ]
+}
