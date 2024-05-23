@@ -17,7 +17,7 @@ window.addEventListener('load', async () => {
 });
 
 */
-import { fetchNews, saveSelectedCountry, getSelectedCountry } from './model.js';
+import { fetchNews, fetchNewsV1, saveSelectedCountry, getSelectedCountry } from './model.js';
 import { renderNews, setupCountryDropdown, setSelectedCountry } from './view.js';
 import './news-article.js';
 
@@ -27,7 +27,7 @@ async function loadNews() {
 
   console.log('selectedCountry::' + selectedCountry);
   try {
-    const articles = await fetchNews(selectedCountry);
+    const articles = await fetchNewsV1(selectedCountry);
     console.log('articles::' + articles);
     renderNews(articles);
   } catch (error) {

@@ -20,6 +20,25 @@ export async function fetchNews(apiUrl) {
     return json.articles;
   }
   
+
+  export async function fetchNewsV1(countryCode) {
+    const newsapiurl = `https://newsapi.org/v2/top-headlines?country=${countryCode}&apiKey=${apikey}`;
+    return fetch(newsapiurl)
+      .then(res => {
+        if (!res.ok) {
+          throw new Error('Failed to fetch news');
+        }
+        return res.json();
+      })
+      .then(json => {
+        return json.articles;
+      })
+      .catch(error => {
+        console.log('Error in news fetch:: ' + error);
+        throw error;
+      });
+  }
+
   export function saveSelectedCountry(countryCode) {
     localStorage.setItem('selectedCountry', countryCode);
   }
